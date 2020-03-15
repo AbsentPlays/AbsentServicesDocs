@@ -1,10 +1,10 @@
 # Discord Bot Token
 
-## What is a Discord Bot Token?
+## What is a discord bot token?
 
 Discord Bot Token is a short phrase that acts as a “key” to controlling a Discord Bot. Tokens are used inside bot code to send commands back and forth to the API, which in turn controls bot actions.
 
-## Getting Bot Token
+## Getting a bot token
 
 Head over to [discord discord developer portal](https://discordapp.com/developers/applications). After that look on top right and click new application
 
