@@ -12,5 +12,11 @@ Head over to [discord discord developer portal](https://discordapp.com/developer
 
 ![Time to pick a name. Pick the name of your bot you would want. Could be changed later if needed.](.gitbook/assets/newapplication2.png)
 
+## Making the Bot
+
+Now lets head over to the bot page on the left hand side.
+
+![Click the bot page.](.gitbook/assets/headtobot.png)
+
 
 
