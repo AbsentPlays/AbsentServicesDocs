@@ -18,5 +18,21 @@ Now lets head over to the bot page on the left hand side.
 
 ![Click the bot page.](.gitbook/assets/headtobot.png)
 
+![Click add bot](.gitbook/assets/clickaddbot.png)
 
+![Once the bot is made it can not be removed.](.gitbook/assets/yesdoit.png)
+
+## Inviting the bot to your server
+
+Lets get started on inviting your newly made discord bot to your discord server. First off you will need your client token to start off with and this link. [https://discordapp.com/oauth2/authorize?&client\_id=YOUR\_CLIENT\_ID\_HERE&scope=bot&permissions=0](https://discordapp.com/oauth2/authorize?&client_id=YOUR_CLIENT_ID_HERE&scope=bot&permissions=0)
+
+Head over to "General Information" tab and get the client id.
+
+![Copy the client id](.gitbook/assets/clientdiscordbotclientid.png)
+
+Then head over to your internet browser and paste the link
+
+![Pick server and then authorize it.](.gitbook/assets/invitetodisc.png)
+
+![After authorized, you will see this.](.gitbook/assets/authorizedbot.png)
 
