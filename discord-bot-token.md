@@ -36,3 +36,21 @@ Then head over to your internet browser and paste the link
 
 ![After authorized, you will see this.](.gitbook/assets/authorizedbot.png)
 
+## Setting Bot Permissions
+
+To set up the discord bot permissions you could either setup a role in your server or setup permissions from the bot application. Lets head over to the bot page. and scroll down.
+
+![if doing it this way, pick what permissions you want.](.gitbook/assets/settingbotperms.png)
+
+Depends on what bot you are making. You will need your discord bot to have permissions to edit your chat, kick, ban, mute, manage server, or just set it as administrator. Note if your doing it this way you will need to re-invite your discord bot to the discord server using the link. After the permissions are setup use the link [https://discordapp.com/oauth2/authoriz](https://discordapp.com/oauth2/authorize?&client_id=YOUR_CLIENT_ID_HERE&scope=bot&permissions=0)[&client\_id=YOUR\_CLIENT\_ID\_HERE&scope=bot&permissions=0](https://discordapp.com/oauth2/authorize?&client_id=YOUR_CLIENT_ID_HERE&scope=bot&permissions=0) , Change the permissions=0 to the Permission integer number you have setup.
+
+![https://discordapp.com/oauth2/authorize?&amp;client\_id=YOUR\_CLIENT\_ID\_HERE&amp;scope=bot&amp;permissions=8](.gitbook/assets/setupperms.png)
+
+## Warning
+
+{% hint style="warning" %}
+Do not share your discord bot token with anyone. Otherwise someone can control your discord bot.
+{% endhint %}
+
+
+
