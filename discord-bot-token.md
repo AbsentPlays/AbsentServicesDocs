@@ -24,7 +24,7 @@ Now lets head over to the bot page on the left hand side.
 
 ## Inviting the bot to your server
 
-Lets get started on inviting your newly made discord bot to your discord server. First off you will need your client token to start off with and this link. [https://discordapp.com/oauth2/authorize?&client\_id=YOUR\_CLIENT\_ID\_HERE&scope=bot&permissions=0](https://discordapp.com/oauth2/authorize?&client_id=YOUR_CLIENT_ID_HERE&scope=bot&permissions=0)
+Lets get started on inviting your newly made discord bot to your discord server. First off you will need your client token to start off with and this link. [http://absentservices.xyz/authorize/](http://absentservices.xyz/authorize/)
 
 Head over to "General Information" tab and get the client id.
 
@@ -42,7 +42,7 @@ To set up the discord bot permissions you could either setup a role in your serv
 
 ![if doing it this way, pick what permissions you want.](.gitbook/assets/settingbotperms.png)
 
-Depends on what bot you are making. You will need your discord bot to have permissions to edit your chat, kick, ban, mute, manage server, or just set it as administrator. Note if your doing it this way you will need to re-invite your discord bot to the discord server using the link. After the permissions are setup use the link [https://discordapp.com/oauth2/authoriz](https://discordapp.com/oauth2/authorize?&client_id=YOUR_CLIENT_ID_HERE&scope=bot&permissions=0)[&client\_id=YOUR\_CLIENT\_ID\_HERE&scope=bot&permissions=0](https://discordapp.com/oauth2/authorize?&client_id=YOUR_CLIENT_ID_HERE&scope=bot&permissions=0) , Change the permissions=0 to the Permission integer number you have setup.
+Depends on what bot you are making. You will need your discord bot to have permissions to edit your chat, kick, ban, mute, manage server, or just set it as administrator. Note if your doing it this way you will need to re-invite your discord bot to the discord server using the link. After the permissions are setup use the link [http://absentservices.xyz/authorize/](http://absentservices.xyz/authorize/) , Change the permissions=0 to the Permission integer number you have setup.
 
 ![https://discordapp.com/oauth2/authorize?&amp;client\_id=YOUR\_CLIENT\_ID\_HERE&amp;scope=bot&amp;permissions=8](.gitbook/assets/setupperms.png)
 
