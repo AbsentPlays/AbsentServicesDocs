@@ -12,7 +12,7 @@ description: >-
 * [Discord](https://discord.gg/jYM3CXt)
 * [Website](http://absentservices.xyz/)
 * [Twitter](https://twitter.com/AbsentServices)
-* [Instagram](https://www.instagram.com/absentservices/)
+
 
 
 
