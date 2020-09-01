@@ -7,8 +7,6 @@ description: Generator for creating custom titles for forums or html
 
 
 {% hint style="success" %}
-Can be we re-coded to your liking. 
-
 Can be used on own site.
 {% endhint %}
 
