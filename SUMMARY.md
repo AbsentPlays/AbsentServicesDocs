@@ -3,8 +3,8 @@
 * [Welcome](README.md)
 * [Discord Bot Token](discord-bot-token.md)
 
-## Products
+## Marketplace
 
-* [User Title Generator](products/usertitlegenerator.md)
-* [Mower Pack](products/mower-pack.md)
+* [User Title Generator](marketplace/usertitlegenerator.md)
+* [Mower Pack](marketplace/mower-pack.md)
 

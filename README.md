@@ -9,7 +9,7 @@ description: >-
 
 ## Links
 
-* [Discord](https://discord.gg/jYM3CXt)
+* [Discord](https://discord.absentservices.xyz)
 * [Website](http://absentservices.xyz/)
 * [Twitter](https://twitter.com/AbsentServices)
 
