@@ -6,8 +6,5 @@
 ## Products
 
 * [User Title Generator](products/usertitlegenerator.md)
-
----
-
-* [Mower Pack](mower-pack.md)
+* [Mower Pack](products/mower-pack.md)
 
