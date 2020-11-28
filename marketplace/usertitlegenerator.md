@@ -18,7 +18,7 @@ Can be used on own site.
 
 ### Links
 
-* [Demo](http://absentplays.com/demo/UserTitleGenerator)
+* [Demo](https://absentservices.xyz/usertitlegen/)
 * [GitHub](https://github.com/AbsentPlays/UserTitleGenerator)
 
 
