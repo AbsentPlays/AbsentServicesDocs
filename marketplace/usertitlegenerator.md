@@ -14,12 +14,12 @@ Can change logo on top.
 Can be used on own site.
 {% endhint %}
 
-![What the user title Generator looks like.](../.gitbook/assets/demousertitlegen.png)
+![](../.gitbook/assets/demo.png)
 
 ### Links
 
 * [Demo](https://absentservices.xyz/usertitlegen/)
-* [GitHub](https://github.com/AbsentPlays/UserTitleGenerator)
+* [GitHub](https://github.com/AbsentServices/UserTitleGenerator)
 
 
 
