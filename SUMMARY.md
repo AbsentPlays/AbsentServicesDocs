@@ -7,4 +7,5 @@
 
 * [User Title Generator](marketplace/usertitlegenerator.md)
 * [Mower Pack](marketplace/mower-pack.md)
+* [HTML Website](marketplace/html-website.md)
 
